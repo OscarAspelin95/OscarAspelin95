@@ -3,7 +3,7 @@
 🔭 I’m currently working on<br>
 
 - Bioinformatically related Rust projects.<br>
-- Fullstack Rust projects.<br>
+- Anything that combines Python and Rust!.<br>
 
 ## Socials:
 
