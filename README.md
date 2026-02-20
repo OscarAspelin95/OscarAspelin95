@@ -12,7 +12,7 @@
 # Tech Stack:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
- ![Terraform](https://img.shields.io/badge/Terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Nextflow](https://img.shields.io/badge/Nextflow-23AA62?style=for-the-badge&logo=nextflow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/polars-%23579eee.svg?style=for-the-badge&logo=polars&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-%23FF00A0.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
+ ![Terraform](https://img.shields.io/badge/Terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Nextflow](https://img.shields.io/badge/Nextflow-23AA62?style=for-the-badge&logo=nextflow&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-%23FF00A0.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
 
 # GitHub Stats:
 
