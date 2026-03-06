@@ -12,6 +12,7 @@ I'm usually all over the place, incrementally working on several repositories at
 - [bioinformatics with rust](https://github.com/OscarAspelin95/bioinformatics_with_rust) - An introduction to the Rust programming language for bioinformatic applications.
 - [sintax_rs](https://github.com/OscarAspelin95/sintax_rs) - Re-implementation of the SINTAX classification algorithm.
 - [ani_rs](https://github.com/OscarAspelin95/ani_rs) - Ultrafast approximate genome sequence similarities, inspired by FastANI.
+- [bam_rs](https://github.com/OscarAspelin95/bam_rs) - BAM parser, suitable for finding heterogenous position in Oxford Nanopore aligned data.
 - [bio_utils_rs](https://github.com/OscarAspelin95/bio_utils_rs) - Rust library for various bioinformatic utilities.
 - [amplipore](https://github.com/OscarAspelin95/amplipore) - 16S Nanopore pipeline, powered by `sintax_rs`.
 
