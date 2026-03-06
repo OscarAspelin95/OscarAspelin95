@@ -1,9 +1,19 @@
 # About Me:
+Passionate bioinformatician, eager to learn more about writing high performance bioinformatics applications in Rust. 
 
-🔭 I’m currently working on<br>
+🔭 I’m currently working on:<br>
 
 - Bioinformatically related Rust projects.<br>
 - Anything that combines Python and Rust!<br>
+
+## Greatest Hits:
+I'm usually all over the place, incrementally working on several repositories at once. However, here are my (at least according to me) greatest hits:<br>
+
+- [bioinformatics with rust](https://github.com/OscarAspelin95/bioinformatics_with_rust) - An introduction to the Rust programming language for bioinformatic applications.
+- [sintax_rs](https://github.com/OscarAspelin95/sintax_rs) - Re-implementation of the SINTAX classification algorithm.
+- [ani_rs](https://github.com/OscarAspelin95/ani_rs) - Ultrafast approximate genome sequence similarities, inspired by FastANI.
+- [bio_utils_rs](https://github.com/OscarAspelin95/bio_utils_rs) - Rust library for various bioinformatic utilities.
+- [amplipore](https://github.com/OscarAspelin95/amplipore) - 16S Nanopore pipeline, powered by `sintax_rs`.
 
 ## Socials:
 
