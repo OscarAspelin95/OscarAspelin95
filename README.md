@@ -10,6 +10,7 @@ Passionate bioinformatician, eager to learn more about writing high performance 
 I'm usually all over the place, incrementally working on several repositories at once. However, here are my (at least according to me) greatest hits:<br>
 
 - [bioinformatics with rust](https://github.com/OscarAspelin95/bioinformatics_with_rust) - An introduction to the Rust programming language for bioinformatic applications.
+- [anova_rs](https://github.com/OscarAspelin95/anova_rs) - TUI for monitoring and controlling Anova APC devices.
 - [sintax_rs](https://github.com/OscarAspelin95/sintax_rs) - Re-implementation of the SINTAX classification algorithm.
 - [ani_rs](https://github.com/OscarAspelin95/ani_rs) - Ultrafast approximate genome sequence similarities, inspired by FastANI.
 - [bam_rs](https://github.com/OscarAspelin95/bam_rs) - BAM parser, suitable for finding heterogenous position in Oxford Nanopore aligned data.
